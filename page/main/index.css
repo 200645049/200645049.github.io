@@ -1,0 +1,18 @@
+.b {
+    border: 1px red solid;
+}
+
+.main {
+    background-color: #ffef93;
+}
+
+.player {
+    width: 500px;
+    height: 700px;
+    margin: auto;
+}
+
+.test {
+    width: 500px;
+    height: 1600px;
+}
